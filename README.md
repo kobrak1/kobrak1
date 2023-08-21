@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Burak Karhan</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobrak1)](https://github.com/kobrak1/github-readme-stats)
+
 - 🔭 I’m currently working on [Pati App](https://github.com/Develhope-FS1Turk-Group-2/PatiApp2)
 
 - 🌱 I’m currently learning **React.js**
