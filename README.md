@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Karhan</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img src="https://www.google.com/search?q=animated+coding+gif&sca_esv=558787020&tbm=isch&sxsrf=AB5stBjnkqnZNFFTZMDoG6f4_993rcducw:1692634830459&source=lnms&sa=X&ved=2ahUKEwiV2LaOlO6AAxWncvEDHRePB8YQ_AUoAXoECAIQAw&biw=1536&bih=747&dpr=1.25#imgrc=sMOt159SKGCrJM" alt="">
 
 - 🔭 I’m currently working on [Pati App](https://github.com/Develhope-FS1Turk-Group-2/PatiApp2)
 
