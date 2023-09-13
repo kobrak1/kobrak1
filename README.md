@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Karhan</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [Pati App](https://github.com/Develhope-FS1Turk-Group-2/PatiApp2)
+- 🔭 I’m currently working on [Wyd Chat](https://github.com/kobrak1/wyd-chat)
 
 - 🌱 I’m currently learning **React.js**
 
