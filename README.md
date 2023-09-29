@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Wyd Chat](https://github.com/kobrak1/wyd-chat)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Express.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kobrak1/all-projects-directory](https://github.com/kobrak1/all-projects-directory)
 
